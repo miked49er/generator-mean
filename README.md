@@ -1,0 +1,1 @@
+Custom mean init generator
